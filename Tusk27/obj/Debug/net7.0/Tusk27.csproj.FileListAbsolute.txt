@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\bin\Debug\net7.0\Tusk27.exe
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\bin\Debug\net7.0\Tusk27.deps.json
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\bin\Debug\net7.0\Tusk27.runtimeconfig.json
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\bin\Debug\net7.0\Tusk27.dll
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\bin\Debug\net7.0\Tusk27.pdb
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.dll
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\refint\Tusk27.dll
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.pdb
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\Tusk27.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk27\obj\Debug\net7.0\ref\Tusk27.dll
