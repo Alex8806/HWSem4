@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\bin\Debug\net7.0\Tusk29.exe
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\bin\Debug\net7.0\Tusk29.deps.json
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\bin\Debug\net7.0\Tusk29.runtimeconfig.json
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\bin\Debug\net7.0\Tusk29.dll
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\bin\Debug\net7.0\Tusk29.pdb
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.dll
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\refint\Tusk29.dll
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.pdb
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\Tusk29.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\homework\HWSem4\Tusk29\obj\Debug\net7.0\ref\Tusk29.dll
